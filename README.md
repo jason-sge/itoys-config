@@ -6,7 +6,13 @@ As user 'toyadmin':
 
     git clone git@github.com:sge-jasonyoung/itoys-config.git ~/itoys-config
 
-Setup symlinks as necessary.
+Each config file has its own install script, which moves original files and creates necessary symlinks. For example:
+
+    ./etc/install-hosts.sh
+
+However, you can install ALL files with the install-all.sh script:
+
+    ./install-all.sh
 
 ## Location
 
