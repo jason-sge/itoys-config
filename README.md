@@ -1,10 +1,9 @@
 # Industrial Toys Infrastructure Files
 
 ## Installation
-- As user 'toyadmin':
-     git clone git@github.com:sge-jasonyoung/itoys-config.git ~/itoys-config
-
-- Setup symlinks as necessary.
+As user 'toyadmin':
+      git clone git@github.com:sge-jasonyoung/itoys-config.git ~/itoys-config
+Setup symlinks as necessary.
 
 ## Location
 
