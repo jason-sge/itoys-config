@@ -1,0 +1,11 @@
+# When making any changes to this hosts file, be sure to commit and push to git
+
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+#IP		Full Name			Short Name
+10.112.3.202	vpn01.joyent-east.itoys		vpn01
+10.112.4.46	mon01.joyent-east.itoys		mon01
+10.112.4.47	admin01.joyent-east.itoys	admin01
+10.112.3.154	chef01.joyent-east.itoys	chef01
+10.112.4.47	web-dev-web01.joyent-east.itoys	web-dev-web01
